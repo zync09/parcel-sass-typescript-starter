@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/zync09/parcel-sass-typescript-starter.git",
-  "author": "Kraig <zync@zyncinteractive.com.au>",
+  "author": "Zync",
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.14.1",
